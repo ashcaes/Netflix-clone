@@ -1,0 +1,3 @@
+main red: #E62E2D
+main buttons: #4E4E4E
+background : https://wpassets.brainstation.io/app/uploads/2017/04/13100509/Netflix-Background.jpg
